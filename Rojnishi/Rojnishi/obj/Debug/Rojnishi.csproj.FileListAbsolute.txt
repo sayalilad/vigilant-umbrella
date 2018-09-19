@@ -1,0 +1,11 @@
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\bin\Debug\Rojnishi.exe.config
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\bin\Debug\Rojnishi.exe
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\bin\Debug\Rojnishi.pdb
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\obj\Debug\Rojnishi.csprojResolveAssemblyReference.cache
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\obj\Debug\Rojnishi.DiaryPage.resources
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\obj\Debug\Rojnishi.MDIParent_MainForm.resources
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\obj\Debug\Rojnishi.Properties.Resources.resources
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\obj\Debug\Rojnishi.csproj.GenerateResource.Cache
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\obj\Debug\Rojnishi.csproj.CoreCompileInputs.cache
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\obj\Debug\Rojnishi.exe
+D:\Merida\Projects\20180919\Rojnishi\Rojnishi\obj\Debug\Rojnishi.pdb
